@@ -1,0 +1,7 @@
+name: Repository Configuration
+on: workflow_dispatch
+jobs:
+  configure:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Repository visibility should be changed via GitHub Settings UI"
