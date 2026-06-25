@@ -17,6 +17,6 @@ int main() {
         }
         cout << endl; // Move to the next line
     }
-
     return 0;
-}
+
+} 
